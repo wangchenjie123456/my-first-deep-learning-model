@@ -1,1 +1,2 @@
 optimize-model.py 是一个完整的学习模型
+使用pytorch框架实现了一个简单的双层神经元的图像识别模型
