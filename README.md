@@ -1,2 +1,3 @@
-使用pytorch框架实现了基于FashionMnist数据库的一个简单的三层神经元的图像识别模型optimize_model.py
+使用pytorch框架实现了基于FashionMinist数据库的一个简单的三层神经元的图像识别模型optimize_model.py
+
 图像识别准确率约为80%
